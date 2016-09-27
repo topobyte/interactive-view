@@ -15,7 +15,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with interactive-view. If not, see <http://www.gnu.org/licenses/>.
 
-package de.topboyte.interactiveview;
+package de.topobyte.interactiveview;
 
 public interface Zoomable
 {
